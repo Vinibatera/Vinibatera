@@ -3,7 +3,7 @@
 ======================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Vinícius%20%20%F0%9F%91%8B&fontAlign=50&fontAlignY=40&color=0:6A00FF,50:00D4FF,100:00FFC6&fontColor=ffffff&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20BI%20%7C%20Projetos%20Pr%C3%A1ticos&descAlign=50&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Vin%C3%ADcius%20Corr%C3%AAa&fontAlign=50&fontAlignY=40&color=0:6A00FF,50:00D4FF,100:00FFC6&fontColor=ffffff&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20BI%20%7C%20Projetos%20Pr%C3%A1ticos&descAlign=50&descAlignY=65"
     alt="banner"
   />
 </p>
@@ -13,7 +13,7 @@
 ======================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00D4FF&center=true&vCenter=true&width=980&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vinicius...;mas+pode+me+chamar+de+Vini+%F0%9F%98%84;Curto+transformar+dados+em+insights+claros+e+acion%C3%A1veis.;Python+%2B+SQL+%2B+Estat%C3%ADstica+%2B+Power+BI.;Dados+bem+contados+geram+decis%C3%B5es+melhores.;E+sim...+tamb%C3%A9m+sou+m%C3%BAsico+%F0%9F%8E%B5"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00D4FF&center=true&vCenter=true&width=980&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vin%C3%ADcius...;mas+pode+me+chamar+de+Vini+%F0%9F%98%84;Curto+transformar+dados+em+insights+claros+e+acion%C3%A1veis.;Python+%2B+SQL+%2B+Estat%C3%ADstica+%2B+Power+BI.;Dados+bem+contados+geram+decis%C3%B5es+melhores.;E+sim...+tamb%C3%A9m+sou+m%C3%BAsico+%F0%9F%8E%B5"
     alt="Typing SVG"
   />
 </p>
@@ -52,8 +52,8 @@ Gosto de **transformar dados em decisões**, indo da análise estatística ao da
 ### 🧩 Conhecimentos complementares
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23
-
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
 
 ---
 
@@ -63,4 +63,5 @@ Gosto de **transformar dados em decisões**, indo da análise estatística ao da
 ### 😄 Curiosidade final
 Se você me vir analisando dados de dia e tocando música à noite, está tudo certo.  
 No fundo, **dados e música têm algo em comum**: quando estão fora do ritmo, todo mundo percebe 🎶📊
+
 
