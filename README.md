@@ -3,7 +3,7 @@
 ======================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Vinicius%20(Vini)%20%F0%9F%91%8B&fontAlign=50&fontAlignY=40&color=0:6A00FF,50:00D4FF,100:00FFC6&fontColor=ffffff&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20BI%20%7C%20Projetos%20Pr%C3%A1ticos&descAlign=50&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Vinícius%20(Vini)%20%F0%9F%91%8B&fontAlign=50&fontAlignY=40&color=0:6A00FF,50:00D4FF,100:00FFC6&fontColor=ffffff&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20BI%20%7C%20Projetos%20Pr%C3%A1ticos&descAlign=50&descAlignY=65"
     alt="banner"
   />
 </p>
